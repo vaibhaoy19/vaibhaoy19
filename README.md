@@ -52,9 +52,9 @@ With hands-on experience in **AWS services, DevOps tools, and CI/CD pipelines**,
 ## 🌐 Connect With Me  
 www.linkedin.com/in/vaibhao-y-b2757277
 
-https://github.com/vaibhao-aws-devops
+https://github.com/vaibhaoy19
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhaoy2@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhaoy1908@gmail.com)  
 
 ---
 
