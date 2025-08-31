@@ -36,12 +36,12 @@ With hands-on experience in **AWS services, DevOps tools, and CI/CD pipelines**,
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
 
 ---
-  ### 🚀 Featured Projects
+### 🚀 Featured Projects
 
-- **High Availability Web Server Architecture** — EC2, ALB, Auto Scaling, CloudWatch.  
-  https://github.com/vaibhao-aws-devops/AWS-WebServer-Deployment.git
+- <span style="font-size:18px; color:#1E90FF; font-weight:bold;">🌐 High Availability Web Server Architecture</span> — EC2, ALB, Auto Scaling, CloudWatch  
+  GitHub: [https://github.com/vaibhao-aws-devops/AWS-WebServer-Deployment.git](https://github.com/vaibhao-aws-devops/AWS-WebServer-Deployment.git)
 
-- **Automated Web Application CI/CD Pipeline using Jenkins, Maven, Docker, and AWS EKS**  
+- <span style="font-size:18px; color:#FF4500; font-weight:bold;">🤖 Automated Web Application CI/CD Pipeline using Jenkins, Maven, Docker, and AWS EKS</span>  
   GitHub: [https://github.com/vaibhaoy19/myweb_Final_Project.git](https://github.com/vaibhaoy19/myweb_Final_Project.git)  
   A comprehensive DevOps project demonstrating an automated CI/CD pipeline for a Java web application. It uses Jenkins for continuous integration, Maven for build automation, Docker for containerization, and AWS Elastic Kubernetes Service (EKS) for scalable deployment.
 
