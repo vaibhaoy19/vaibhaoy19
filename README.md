@@ -40,12 +40,14 @@ With hands-on experience in **AWS services, DevOps tools, and CI/CD pipelines**,
 - **High Availability Web Server Architecture** — EC2, ALB, Auto Scaling, CloudWatch.  
   https://github.com/vaibhao-aws-devops/AWS-WebServer-Deployment.git
 ---  
+
 ## 📊 GitHub Stats  
 
-![Vaibhao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhao-aws-devops&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhao-aws-devops&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=vaibhao-aws-devops&theme=tokyonight)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vaibhao-aws-devops&theme=tokyonight)  
+![Vaibhao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhaoy19&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhaoy19&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=vaibhaoy19&theme=tokyonight)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vaibhaoy19&theme=tokyonight)
+
 
 ---
 
