@@ -39,6 +39,10 @@ With hands-on experience in **AWS services, DevOps tools, and CI/CD pipelines**,
 ### 📂 Featured Projects
 - **High Availability Web Server Architecture** — EC2, ALB, Auto Scaling, CloudWatch.  
   https://github.com/vaibhao-aws-devops/AWS-WebServer-Deployment.git
+
+  - **🚀 Automated Web Application CI/CD Pipeline using Jenkins, Maven, Docker, and AWS EKS**
+
+A comprehensive DevOps project demonstrating an automated CI/CD pipeline for a Java web application. Utilizes Jenkins for continuous integration, Maven for build automation, Docker for containerization, and AWS Elastic Kubernetes Service (EKS) for scalable deployment.
 ---  
 
 ## 📊 GitHub Stats  
