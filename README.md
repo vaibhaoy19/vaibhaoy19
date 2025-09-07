@@ -2,13 +2,14 @@
 
 ## 🚀 About Me  
 I'm an **AWS & DevOps Engineer** from 🇮🇳 India, passionate about designing scalable cloud infrastructure and implementing automation solutions.  
-With hands-on experience in **AWS services, DevOps tools, and CI/CD pipelines**, I focus on building **production-ready deployments** and **cloud-native applications**.  
+With hands-on experience in **AWS services, DevOps tools, and CI/CD pipelines**, I focus on building production-ready deployments and cloud-native applications.  
 
-- 🔭 Currently working on **cloud automation, containerization, and DevOps pipelines**  
-- 🌱 Continuously learning **Kubernetes, Terraform, and emerging DevOps best practices**  
-- 👯 Open to collaborate on **cloud projects and open-source DevOps initiatives**  
-- 💬 Ask me about **AWS, Docker, Jenkins, Kubernetes, and CI/CD automation**  
-- ⚡ Fun fact: I love sharing knowledge through **mentoring & building real-world projects**
+🔭 Currently working on **cloud automation, containerization, and DevOps pipelines**  
+🌱 Continuously learning **Kubernetes, Terraform, and emerging DevOps best practices**  
+👯 Open to collaborate on **cloud projects and open-source DevOps initiatives**  
+💬 Ask me about **AWS, Docker, Jenkins, Kubernetes, and CI/CD automation**  
+⚡ Fun fact: I love **sharing knowledge through mentoring & building real-world projects**  
+
 
 ---
 
