@@ -46,15 +46,18 @@ A robust AWS-based project implementing a highly available web server architectu
   GitHub: [https://github.com/vaibhaoy19/myweb_Final_Project.git](https://github.com/vaibhaoy19/myweb_Final_Project.git)  
   A comprehensive DevOps project demonstrating an automated CI/CD pipeline for a Java web application. It uses Jenkins for continuous integration, Maven for build automation, Docker for containerization, and AWS Elastic Kubernetes Service (EKS) for scalable deployment.
 
-- ### 🏨 [Hostel Management System](https://github.com/vaibhaoy19/HostelManagment1.git)  
+- ### 🏨 Hostel Management System  
+🔗 GitHub Repository: [https://github.com/vaibhaoy19/HostelManagment1.git](https://github.com/vaibhaoy19/HostelManagment1.git)  
+
 A web-based application designed to simplify **hostel administration** by managing student details, room allocations, and fee records.  
-Key Features:  
+
+**Key Features:**  
 - 📌 Student registration and record management  
 - 🛏️ Room allocation and availability tracking  
 - 💳 Fee management and payment tracking  
 - 📊 Admin dashboard for easy monitoring  
 
-Tech Stack: *HTML, CSS, JavaScript, PHP, MySQL*  
+**Tech Stack:** *HTML, CSS, JavaScript, PHP, MySQL*  
 
 
 ---  
