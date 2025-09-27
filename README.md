@@ -24,24 +24,34 @@ I'm an AWS & DevOps Engineer from 🇮🇳 India, passionate about designing sca
 
 🚀 Featured Projects  
 
-🌐 **High Availability Web Server Architecture**  
-[GitHub Repo](https://github.com/vaibhaoy19/AWS-WebServer-Deployment)  
-A robust AWS-based project implementing a **highly available web server architecture** using EC2 instances, Application Load Balancer (ALB), and Auto Scaling. Includes CloudWatch monitoring for performance, reliability, and scalability.
+🌐 High Availability Web Server Architecture  
+🚀 GitHub: [https://github.com/vaibhao-aws-devops/AWS-WebServer-Deployment.git](https://github.com/vaibhao-aws-devops/AWS-WebServer-Deployment.git)  
+A robust AWS-based project implementing a highly available web server architecture using EC2 instances, Application Load Balancer (ALB), and Auto Scaling. It also includes CloudWatch monitoring to ensure performance, reliability, and scalability for web applications.
 
-🤖 **Automated Web Application CI/CD Pipeline using Jenkins, Maven, Docker, and AWS EKS**  
-[GitHub Repo](https://github.com/vaibhaoy19/myweb_Final_Project)  
-A comprehensive DevOps project demonstrating an **automated CI/CD pipeline** for a Java web application. Uses Jenkins for integration, Maven for build automation, Docker for containerization, and AWS EKS for scalable deployment.
+🤖 Automated Web Application CI/CD Pipeline using Jenkins, Maven, Docker, and AWS EKS  
+🚀 GitHub: [https://github.com/vaibhaoy19/myweb_Final_Project.git](https://github.com/vaibhaoy19/myweb_Final_Project.git)  
+A comprehensive DevOps project demonstrating an automated CI/CD pipeline for a Java web application. It uses Jenkins for continuous integration, Maven for build automation, Docker for containerization, and AWS Elastic Kubernetes Service (EKS) for scalable deployment.
 
-🏨 **Hostel Management System**  
-[GitHub Repo](https://github.com/vaibhaoy19/HostelManagment1)  
-A web-based application to simplify hostel administration by managing student records, room allocation, and fee management.  
+🏨 Hostel Management System  
+🔗 GitHub Repository: [https://github.com/vaibhaoy19/HostelManagment1.git](https://github.com/vaibhaoy19/HostelManagment1.git)  
+A web-based application designed to simplify hostel administration by managing student details, room allocations, and fee records.  
+
+**Key Features:**  
+📌 Student registration and record management  
+🛏️ Room allocation and availability tracking  
+💳 Fee management and payment tracking  
+📊 Admin dashboard for easy monitoring  
+
 **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL
+
 
 ---
 
 📊 GitHub Stats Vaibhao's GitHub Stats | Top Languages | GitHub Streak 🏆 GitHub Trophies [![trophy](https://github-profile-trophy.vercel.app/?username=vaibhaoy19&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 🌐 Connect With Me  
-www.linkedin.com/in/vaibhao-y-b2757277 | https://github.com/vaibhaoy19 | 📧 Email: vaibhaoy1908@gmail.com
+🚀 LinkedIn: [www.linkedin.com/in/vaibhao-y-b2757277](https://www.linkedin.com/in/vaibhao-y-b2757277) |  
+🚀 GitHub: [https://github.com/vaibhaoy19](https://github.com/vaibhaoy19) |  
+📧 Email: [vaibhaoy1908@gmail.com](mailto:vaibhaoy1908@gmail.com)
 
 💡 "Automate, Innovate, Elevate" | Profile Views | GitHub Followers
