@@ -60,7 +60,17 @@ A web-based application designed to simplify hostel administration by managing s
 ---
 
 📊 **GitHub Stats**  
-GitHub Stats | Top Languages | GitHub Streak  
+
+**Vaibhao Yenchalwar's GitHub Stats**  
+
+![GitHub Stars](https://img.shields.io/github/stars/vaibhaoy19?style=for-the-badge&logo=github&logoColor=white)  
+![GitHub Commits](https://img.shields.io/badge/Commits-246-brightgreen?style=for-the-badge)  
+![GitHub PRs](https://img.shields.io/badge/PRs-193-blue?style=for-the-badge)  
+![GitHub Issues](https://img.shields.io/badge/Issues-4-red?style=for-the-badge)  
+![Contributed last year](https://img.shields.io/badge/Contributed_2024-4-yellow?style=for-the-badge)
+
+---
+
 
 🏆 **GitHub Trophies**  
 [![trophy](https://github-profile-trophy.vercel.app/?username=vaibhaoy19&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
