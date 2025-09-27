@@ -1,15 +1,28 @@
-🚀 About Me  
-I'm Vaibhao Yenchalwar, an AWS & DevOps Engineer from 🇮🇳 India, passionate about designing scalable cloud infrastructure and implementing automation solutions. With hands-on experience in AWS services, DevOps tools, and CI/CD pipelines, I focus on building production-ready deployments and cloud-native applications.
+# 🚀 Vaibhao Yenchalwar
 
-🔭 Currently working on cloud automation, containerization, and DevOps pipelines  
-🌱 Continuously learning Kubernetes, Terraform, and emerging DevOps best practices  
-👯 Open to collaborate on cloud projects and open-source DevOps initiatives  
-💬 Ask me about AWS, Docker, Jenkins, Kubernetes, Maven, SonarQube, and CI/CD automation  
-⚡ Fun fact: I love sharing knowledge through mentoring & building real-world projects
+**AWS & DevOps Engineer** from 🇮🇳 India, passionate about **designing scalable cloud infrastructure** and **implementing automation solutions**.  
+Hands-on experience in **AWS services, DevOps tools, CI/CD pipelines**, and building **production-ready deployments**.
 
 ---
 
-🛠️ Tech Stack  
+🔭 **Currently working on:**  
+Cloud automation, containerization, and DevOps pipelines
+
+🌱 **Continuously learning:**  
+Kubernetes, Terraform, and emerging DevOps best practices
+
+👯 **Open to collaborate:**  
+Cloud projects and open-source DevOps initiatives
+
+💬 **Ask me about:**  
+AWS, Docker, Jenkins, Kubernetes, Maven, SonarQube, and CI/CD automation
+
+⚡ **Fun fact:**  
+I love sharing knowledge through mentoring & building real-world projects
+
+---
+
+🛠️ **Tech Stack**
 
 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -46,20 +59,24 @@ A web-based application designed to simplify hostel administration by managing s
 
 ---
 
-📊 GitHub Stats Vaibhao's GitHub Stats | Top Languages | GitHub Streak 🏆 GitHub Trophies [![trophy](https://github-profile-trophy.vercel.app/?username=vaibhaoy19&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)  
+📊 **GitHub Stats**  
+Vaibhao's GitHub Stats | Top Languages | GitHub Streak  
+
+🏆 **GitHub Trophies**  
+[![trophy](https://github-profile-trophy.vercel.app/?username=vaibhaoy19&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhaoy19&layout=compact&theme=radical)  
 
-📈 Activity Graph  
+📈 **Activity Graph**  
 ![Vaibhao's Activity Graph](https://activity-graph.herokuapp.com/graph?username=vaibhaoy19&theme=react-dark&hide_border=true)
 
 ---
 
-🌐 Connect With Me  
+🌐 **Connect With Me**  
 🚀 LinkedIn: [www.linkedin.com/in/vaibhao-y-b2757277](https://www.linkedin.com/in/vaibhao-y-b2757277) |  
 🚀 GitHub: [https://github.com/vaibhaoy19](https://github.com/vaibhaoy19) |  
 📧 Email: [vaibhaoy1908@gmail.com](mailto:vaibhaoy1908@gmail.com)
 
 ---
 
-💡 "Automate, Innovate, Elevate" | 🌟 Profile Views | ⭐ GitHub Followers
+💡 **"Automate, Innovate, Elevate"** | 👁️ Profile Views | ⭐ GitHub Followers
