@@ -35,17 +35,17 @@ I love sharing knowledge through mentoring & building real-world projects
 
 ---
 
-🚀 Featured Projects  
+🚀 **Featured Projects**  
 
-🌐 High Availability Web Server Architecture  
+**🌐 High Availability Web Server Architecture**  
 🚀 GitHub: [https://github.com/vaibhao-aws-devops/AWS-WebServer-Deployment.git](https://github.com/vaibhao-aws-devops/AWS-WebServer-Deployment.git)  
 A robust AWS-based project implementing a highly available web server architecture using EC2 instances, Application Load Balancer (ALB), and Auto Scaling. It also includes CloudWatch monitoring to ensure performance, reliability, and scalability for web applications.
 
-🤖 Automated Web Application CI/CD Pipeline using Jenkins, Maven, Docker, and AWS EKS  
+**🤖 Automated Web Application CI/CD Pipeline using Jenkins, Maven, Docker, and AWS EKS**  
 🚀 GitHub: [https://github.com/vaibhaoy19/myweb_Final_Project.git](https://github.com/vaibhaoy19/myweb_Final_Project.git)  
 A comprehensive DevOps project demonstrating an automated CI/CD pipeline for a Java web application. It uses Jenkins for continuous integration, Maven for build automation, Docker for containerization, and AWS Elastic Kubernetes Service (EKS) for scalable deployment.
 
-🏨 Hostel Management System  
+**🏨 Hostel Management System**  
 🔗 GitHub Repository: [https://github.com/vaibhaoy19/HostelManagment1.git](https://github.com/vaibhaoy19/HostelManagment1.git)  
 A web-based application designed to simplify hostel administration by managing student details, room allocations, and fee records.  
 
@@ -73,9 +73,9 @@ Vaibhao's GitHub Stats | Top Languages | GitHub Streak
 ---
 
 🌐 **Connect With Me**  
-🚀 LinkedIn: [www.linkedin.com/in/vaibhao-y-b2757277](https://www.linkedin.com/in/vaibhao-y-b2757277) |  
-🚀 GitHub: [https://github.com/vaibhaoy19](https://github.com/vaibhaoy19) |  
-📧 Email: [vaibhaoy1908@gmail.com](mailto:vaibhaoy1908@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhao-y-b2757277)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhaoy19)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhaoy1908@gmail.com)
 
 ---
 
