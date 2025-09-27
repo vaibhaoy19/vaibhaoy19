@@ -6,19 +6,19 @@ Hands-on experience in **AWS services, DevOps tools, CI/CD pipelines**, and buil
 ---
 
 🔭 **Currently working on:**  
-Cloud automation, containerization, and DevOps pipelines
+- Cloud automation, containerization, and DevOps pipelines  
 
 🌱 **Continuously learning:**  
-Kubernetes, Terraform, and emerging DevOps best practices
+- Kubernetes, Terraform, and emerging DevOps best practices  
 
 👯 **Open to collaborate:**  
-Cloud projects and open-source DevOps initiatives
+- Cloud projects and open-source DevOps initiatives  
 
 💬 **Ask me about:**  
-AWS, Docker, Jenkins, Kubernetes, Maven, SonarQube, and CI/CD automation
+- AWS, Docker, Jenkins, Kubernetes, Maven, SonarQube, and CI/CD automation  
 
 ⚡ **Fun fact:**  
-I love sharing knowledge through mentoring & building real-world projects
+- I love sharing knowledge through mentoring & building real-world projects  
 
 ---
 
@@ -50,25 +50,20 @@ A comprehensive DevOps project demonstrating an automated CI/CD pipeline for a J
 A web-based application designed to simplify hostel administration by managing student details, room allocations, and fee records.  
 
 **Key Features:**  
-📌 Student registration and record management  
-🛏️ Room allocation and availability tracking  
-💳 Fee management and payment tracking  
-📊 Admin dashboard for easy monitoring  
+- 📌 Student registration and record management  
+- 🛏️ Room allocation and availability tracking  
+- 💳 Fee management and payment tracking  
+- 📊 Admin dashboard for easy monitoring  
 
 **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL
 
 ---
 
 📊 **GitHub Stats**  
-Vaibhao's GitHub Stats | Top Languages | GitHub Streak  
+GitHub Stats | Top Languages | GitHub Streak  
 
 🏆 **GitHub Trophies**  
-[![trophy](https://github-profile-trophy.vercel.app/?username=vaibhaoy19&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhaoy19&layout=compact&theme=radical)  
-
-📈 **Activity Graph**  
-![Vaibhao's Activity Graph](https://activity-graph.herokuapp.com/graph?username=vaibhaoy19&theme=react-dark&hide_border=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vaibhaoy19&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -79,4 +74,5 @@ Vaibhao's GitHub Stats | Top Languages | GitHub Streak
 
 ---
 
-💡 **"Automate, Innovate, Elevate"** | 👁️ Profile Views | ⭐ GitHub Followers
+💡 **"Automate, Innovate, Elevate"** | 👁️ **Profile Views** | 🐱 **GitHub Followers**
+
