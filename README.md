@@ -84,7 +84,7 @@ A web-based application designed to simplify hostel administration by managing s
 
 <div align="center">
 
-💡 **"Automate. Innovate. Elevate. Deploy with Confidence."**  
+<h2>💡 "Automating the Cloud, One Deployment at a Time."</h2>
 
 👁️ [![Profile Views](https://komarev.com/ghpvc/?username=vaibhaoy19&style=flat-square&color=green)](https://github.com/vaibhaoy19) | 🐱 [![GitHub Followers](https://img.shields.io/github/followers/vaibhaoy19?style=flat-square&logo=github&logoColor=white)](https://github.com/vaibhaoy19)
 
