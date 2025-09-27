@@ -82,4 +82,10 @@ A web-based application designed to simplify hostel administration by managing s
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhaoy19)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhaoy1908@gmail.com)
 
-💡 **"Automate, Innovate, Elevate"** | 👁️ [![Profile Views](https://komarev.com/ghpvc/?username=vaibhaoy19&style=flat-square&color=blue)](https://github.com/vaibhaoy19) | [![GitHub Followers](https://img.shields.io/github/followers/vaibhaoy19?style=flat-square&logo=github&logoColor=white)](https://github.com/vaibhaoy19)
+<div align="center">
+
+💡 **"Automate. Innovate. Elevate. Deploy with Confidence."**  
+
+👁️ [![Profile Views](https://komarev.com/ghpvc/?username=vaibhaoy19&style=flat-square&color=green)](https://github.com/vaibhaoy19) | 🐱 [![GitHub Followers](https://img.shields.io/github/followers/vaibhaoy19?style=flat-square&logo=github&logoColor=white)](https://github.com/vaibhaoy19)
+
+</div>
