@@ -74,14 +74,14 @@ With hands-on experience in **AWS services, DevOps tools, and CI/CD pipelines**,
 
 ## 📊 GitHub Stats  
 
-![Vaibhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhaoy19&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhaoy19&layout=compact&theme=radical)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=vaibhaoy19&theme=radical)](https://git.io/streak-stats)  
+Vaibhao's GitHub Stats | Top Languages | GitHub Streak  
 
----
+[![trophy](https://github-profile-trophy.vercel.app/?username=vaibhaoy19&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)  
 
-## 🌐 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vaibhaoy1908/)  
-- 💻 [GitHub](https://github.com/vaibhaoy19)  
-- 📧 Email: **vaibhaoy1908@gmail.com**  
+🌐 Connect With Me  
+www.linkedin.com/in/vaibhao-y-b2757277  
+https://github.com/vaibhaoy19  
+📧 Email: vaibhaoy1908@gmail.com  
 
+💡 "Automate, Innovate, Elevate"  
+Profile Views | GitHub Followers
