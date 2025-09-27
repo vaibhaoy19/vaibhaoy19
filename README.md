@@ -73,15 +73,11 @@ With hands-on experience in **AWS services, DevOps tools, and CI/CD pipelines**,
 ---
 
 ## 📊 GitHub Stats  
+Vaibhao's GitHub Stats 
+Top Languages
+GitHub Streak 
+GitHub Trophies 
 
-Vaibhao's GitHub Stats | Top Languages | GitHub Streak  
+🌐 Connect With Me www.linkedin.com/in/vaibhao-y-b2757277 https://github.com/vaibhaoy19 Email 💡
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vaibhaoy19&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)  
-
-🌐 Connect With Me  
-www.linkedin.com/in/vaibhao-y-b2757277  
-https://github.com/vaibhaoy19  
-📧 Email: vaibhaoy1908@gmail.com  
-
-💡 "Automate, Innovate, Elevate"  
-Profile Views | GitHub Followers
+"Automate, Innovate, Elevate" Profile Views GitHub Followers
