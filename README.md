@@ -6,19 +6,19 @@ Hands-on experience in **AWS services, DevOps tools, CI/CD pipelines**, and buil
 ---
 
 🔭 **Currently working on:**  
-- Cloud automation, containerization, and DevOps pipelines  
+- Cloud automation, containerization, and DevOps pipelines
 
 🌱 **Continuously learning:**  
-- Kubernetes, Terraform, and emerging DevOps best practices  
+- Kubernetes, Terraform, and emerging DevOps best practices
 
 👯 **Open to collaborate:**  
-- Cloud projects and open-source DevOps initiatives  
+- Cloud projects and open-source DevOps initiatives
 
 💬 **Ask me about:**  
-- AWS, Docker, Jenkins, Kubernetes, Maven, SonarQube, and CI/CD automation  
+- AWS, Docker, Jenkins, Kubernetes, Maven, SonarQube, and CI/CD automation
 
 ⚡ **Fun fact:**  
-- I love sharing knowledge through mentoring & building real-world projects  
+- I love sharing knowledge through mentoring & building real-world projects
 
 ---
 
@@ -50,10 +50,10 @@ A comprehensive DevOps project demonstrating an automated CI/CD pipeline for a J
 A web-based application designed to simplify hostel administration by managing student details, room allocations, and fee records.  
 
 **Key Features:**  
-- 📌 Student registration and record management  
-- 🛏️ Room allocation and availability tracking  
-- 💳 Fee management and payment tracking  
-- 📊 Admin dashboard for easy monitoring  
+📌 Student registration and record management  
+🛏️ Room allocation and availability tracking  
+💳 Fee management and payment tracking  
+📊 Admin dashboard for easy monitoring  
 
 **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL
 
@@ -63,14 +63,14 @@ A web-based application designed to simplify hostel administration by managing s
 
 **Vaibhao Yenchalwar's GitHub Stats**  
 
-![GitHub Stars](https://img.shields.io/github/stars/vaibhaoy19?style=for-the-badge&logo=github&logoColor=white)  
-![GitHub Commits](https://img.shields.io/badge/Commits-246-brightgreen?style=for-the-badge)  
-![GitHub PRs](https://img.shields.io/badge/PRs-193-blue?style=for-the-badge)  
-![GitHub Issues](https://img.shields.io/badge/Issues-4-red?style=for-the-badge)  
-![Contributed last year](https://img.shields.io/badge/Contributed_2024-4-yellow?style=for-the-badge)
+<!-- Circular stats for contributions -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhaoy19&show_icons=true&theme=radical&hide_border=true)
 
----
+<!-- Top Languages Circular Chart -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhaoy19&layout=compact&theme=radical&hide_border=true&langs_count=6)
 
+<!-- GitHub Streak Circular -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaibhaoy19&theme=radical&hide_border=true)
 
 🏆 **GitHub Trophies**  
 [![trophy](https://github-profile-trophy.vercel.app/?username=vaibhaoy19&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
@@ -82,7 +82,4 @@ A web-based application designed to simplify hostel administration by managing s
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhaoy19)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhaoy1908@gmail.com)
 
----
-
-💡 **"Automate, Innovate, Elevate"** | 👁️ **Profile Views** | 🐱 **GitHub Followers**
-
+💡 **"Automate, Innovate, Elevate"** | 👁️ [![Profile Views](https://komarev.com/ghpvc/?username=vaibhaoy19&style=flat-square&color=blue)](https://github.com/vaibhaoy19) | [![GitHub Followers](https://img.shields.io/github/followers/vaibhaoy19?style=flat-square&logo=github&logoColor=white)](https://github.com/vaibhaoy19)
